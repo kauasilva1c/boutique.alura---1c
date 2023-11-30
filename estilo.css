@@ -14,5 +14,5 @@ p{
     width: 1500px;
 }
 #conteudo{
-    display: inline-block;
+    display: flex;
 }
