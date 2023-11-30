@@ -13,3 +13,6 @@ p{
 #banner{
     width: 1500px;
 }
+#conteudo{
+    display: inline-block;
+}
